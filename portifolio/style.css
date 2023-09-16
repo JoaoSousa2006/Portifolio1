@@ -175,7 +175,7 @@ header {
     margin-top: 15px;
 }
 @media screen and (max-width:600px) {
-    .logo {
+    .logo i {
         display: none;
     }
 
