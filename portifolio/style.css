@@ -174,10 +174,5 @@ header {
 .btn {
     margin-top: 15px;
 }
-/*
-@media screen and (max-width:600px) {
-    .logo i {
-        display: none;
-    }
-*/
+
 }
